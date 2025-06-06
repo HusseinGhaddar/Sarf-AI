@@ -1,0 +1,2 @@
+# Sarf AI
+ Sarf AI is a lightweight, real-time Arabic إِعْرَاب analyzer built with Python, Flask, Stanza, and Camel-Tools. It combines deep-learning NLP outputs with handcrafted grammatical rules to deliver instant, accurate إِعْرَاب (syntactic analysis) for short Arabic sentences. Designed for both educational and research use, Sarf AI features an interactive web interface and modular codebase, making it easy to extend or integrate into other Arabic NLP projects.

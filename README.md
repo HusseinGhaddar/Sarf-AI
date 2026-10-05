@@ -30,6 +30,8 @@ Sarf AI/
 
 ## Local setup
 
+Check the [CAMeL Tools installation prerequisites](https://camel-tools.readthedocs.io/en/latest/getting_started.html) for your operating system before installing; current releases require a supported 64-bit Python version and native build dependencies.
+
 The repository does not yet include a pinned dependency manifest. The following commands reflect the imports and model requirements in the source; environment compatibility and setup still need validation.
 
 ```bash
